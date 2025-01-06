@@ -5,7 +5,7 @@ This repository contains the data released in the paper - neDIOM: Dataset and An
 ## Cite Our Work
 
 ```bibtex
-@inproceedings{pokharel-etal-2024-nediom,
+@inproceedings{pokharel-etal-2025-nediom,
     title = "neDIOM: Dataset and Analysis of Nepali Idioms",
     author = "Pokharel, Rhitabrat  and
       Agrawal, Ameeta",

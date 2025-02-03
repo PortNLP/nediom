@@ -1,6 +1,6 @@
 # neDIOM
 
-This repository contains the data released in the paper - neDIOM: Dataset and Analysis of Nepali Idioms, accepted at [CHiPSAL](https://sites.google.com/view/chipsal/home?authuser=0) (co-located with COLING 2025).
+This repository contains the data released in the [paper](https://aclanthology.org/2025.chipsal-1.16/) - neDIOM: Dataset and Analysis of Nepali Idioms, accepted at [CHiPSAL](https://sites.google.com/view/chipsal/home?authuser=0) (co-located with COLING 2025).
 
 ## Cite Our Work
 
